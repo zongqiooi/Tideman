@@ -1,5 +1,5 @@
 # Tideman
-Tideman is a program that is created for CS50 Problem Set 3. The program is used to determine the winner in an election and it is created by using C. The users have to run the C file with extra command line arguments known as "[candidate ...]", in the format of "./tideman [candidate...]". The users will then be prompted to enter the number of voters. Every voter gets to cast three votes for three different candidates. Then, the program will determine the winner in the tideman election.
+Tideman is a program that is created for CS50 Problem Set 3. The program is used to determine the winner in an election and it is created by using C. The users have to run the C file with extra command line arguments known as "[candidates ...]", in the format of "./tideman [candidates ...]". The users will then be prompted to enter the number of voters. Every voter gets to cast three votes for three different candidates. Then, the program will determine the winner in the tideman election.
 
 # Information about Tideman 
 Tideman voting method consists of three parts:
@@ -12,6 +12,7 @@ Once the graph is complete, the source of the graph (the one with no edges point
 # How to Run the Project
 1) Download all the files.
 2) Open the "tideman.c" file and run the project.
+3) Run the command "./tideman [candidates...]", where candidates ... are the name of candidates in the election. 
 
 # Some Screenshots from the Program 
 ![cs50 pset 3 ss1](https://user-images.githubusercontent.com/95561298/179237447-00202646-fb69-4b54-a4b0-8bf8753de26d.png)
