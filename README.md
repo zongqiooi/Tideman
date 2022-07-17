@@ -12,7 +12,7 @@ Once the graph is complete, the source of the graph (the one with no edges point
 # How to Run the Project
 1) Download all the files.
 2) Open the "tideman.c" file and run the project.
-3) Run the command "./tideman [candidates...]", where candidates ... are the name of candidates in the election. 
+3) Run the command `./tideman [candidates...]`, where candidates ... are the name of candidates in the election. 
 
 # Some Screenshots from the Program 
 ![cs50 pset 3 ss1](https://user-images.githubusercontent.com/95561298/179237447-00202646-fb69-4b54-a4b0-8bf8753de26d.png)
